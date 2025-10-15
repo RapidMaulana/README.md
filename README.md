@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React, & Docker**
 
-- 👨‍💻 All of my projects are available at [mmmmm.my.id](mmmmm.my.id)
+- 👨‍💻 All of my projects are available at [maulanarafid.my.id](maulanarafid.my.id)
 
-- 📫 How to reach me **dumdum@gmail.com**
+- 📫 How to reach me **maulanaarafid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
